@@ -1,0 +1,7 @@
+C:\Deidre\Module 3\Chap 21 pag 617\Chap 21 pag 629\Chap 21 pag 629\bin\Debug\Chap 21 pag 629.exe.config
+C:\Deidre\Module 3\Chap 21 pag 617\Chap 21 pag 629\Chap 21 pag 629\bin\Debug\Chap 21 pag 629.exe
+C:\Deidre\Module 3\Chap 21 pag 617\Chap 21 pag 629\Chap 21 pag 629\bin\Debug\Chap 21 pag 629.pdb
+C:\Deidre\Module 3\Chap 21 pag 617\Chap 21 pag 629\Chap 21 pag 629\obj\Debug\Chap 21 pag 629.csprojAssemblyReference.cache
+C:\Deidre\Module 3\Chap 21 pag 617\Chap 21 pag 629\Chap 21 pag 629\obj\Debug\Chap 21 pag 629.csproj.CoreCompileInputs.cache
+C:\Deidre\Module 3\Chap 21 pag 617\Chap 21 pag 629\Chap 21 pag 629\obj\Debug\Chap 21 pag 629.exe
+C:\Deidre\Module 3\Chap 21 pag 617\Chap 21 pag 629\Chap 21 pag 629\obj\Debug\Chap 21 pag 629.pdb
